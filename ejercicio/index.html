@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TrendGear · Dashboard de Clientes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="#" class="logo">
+        <span class="logo-mark">TG</span>
+        <span class="logo-text">Trend<strong>Gear</strong></span>
+      </a>
+
+      <nav class="main-nav" id="mainNav">
+        <a href="#kpis" class="nav-link active">Resumen</a>
+        <a href="#directorio" class="nav-link">Clientes</a>
+        <a href="#analitica" class="nav-link">Analítica</a>
+      </nav>
+
+      <button class="hamburger" id="hamburgerBtn" aria-label="Abrir menú" aria-expanded="false" aria-controls="mainNav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="hero">
+      <p class="eyebrow">Panel sintético · datos generados para pruebas</p>
+      <h1>Pulso de clientes TrendGear</h1>
+      <p class="hero-sub">Vista en tiempo real del comportamiento de compra, construida sobre un dataset sintético de 11 columnas y conectada a Firebase Realtime Database.</p>
+      <div class="hero-status">
+        <span class="pulse-dot" id="statusDot"></span>
+        <span id="statusText">Conectando con la fuente de datos…</span>
+      </div>
+    </section>
+
+    <section class="kpis" id="kpis">
+      <div class="kpi-card">
+        <span class="kpi-label">Clientes totales</span>
+        <span class="kpi-value" id="kpiTotal">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Ingreso total</span>
+        <span class="kpi-value" id="kpiRevenue">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Ticket promedio</span>
+        <span class="kpi-value" id="kpiAvgTicket">—</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Edad promedio</span>
+        <span class="kpi-value" id="kpiAvgAge">—</span>
+      </div>
+    </section>
+
+    <section class="toolbar" id="directorio">
+      <h2>Directorio de clientes</h2>
+      <div class="toolbar-controls">
+        <input type="text" id="searchInput" placeholder="Buscar por nombre, producto o ciudad…" class="search-input" />
+        <select id="membershipFilter" class="filter-select">
+          <option value="">Todas las membresías</option>
+          <option value="Bronze">Bronze</option>
+          <option value="Silver">Silver</option>
+          <option value="Gold">Gold</option>
+          <option value="Platinum">Platinum</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="customer-grid" id="customerGrid" aria-live="polite">
+    </section>
+
+    <section class="analytics" id="analitica">
+      <h2>Distribución por edad</h2>
+      <div class="age-histogram" id="ageHistogram">
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>TrendGear Dashboard — Prototipo con datos sintéticos. Generado en taller de Transformación Digital.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

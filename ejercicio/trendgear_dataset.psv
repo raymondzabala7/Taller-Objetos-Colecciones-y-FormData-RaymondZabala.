@@ -1,0 +1,41 @@
+Customer ID|Name|Email|Product Purchased|Purchase Date|Amount Spent ($)|Age|City|Payment Method|Last Login Date|Membership Status
+TG-0001|Natalia Lopez|natalia.lopez26@example.com|Webcam HD|2025-10-09|447.39|63|Medellin|Credit Card|2026-02-11|Silver
+TG-0002|Mateo Gomez|mateo.gomez96@example.com|Mechanical Keyboard|2025-08-27|1155.77|51|Barranquilla|Bank Transfer|2026-05-12|Bronze
+TG-0003|Paula Torres|paula.torres829@example.com|Laptop Pro 15|2025-06-13|820.28|33|Cali|Debit Card|2026-06-05|Platinum
+TG-0004|Mariana Lopez|mariana.lopez95@example.com|Bluetooth Speaker|2025-04-10|1614.80|54|Cartagena|Credit Card|2025-10-10|Gold
+TG-0005|Carlos Lopez|carlos.lopez997@example.com|Bluetooth Speaker|2025-03-22|578.23|56|Santa Marta|PayPal|2025-12-29|Silver
+TG-0006|Carolina Martinez|carolina.martinez47@example.com|External SSD 1TB|2025-08-22|1872.35|70|Barranquilla|Credit Card|2026-01-17|Bronze
+TG-0007|Gabriela Castro|gabriela.castro167@example.com|Gaming Mouse|2025-12-30|1283.22|60|Medellin|Debit Card|2026-02-21|Silver
+TG-0008|Diego Perez|diego.perez474@example.com|Bluetooth Speaker|2025-10-04|440.67|36|Bogota|Debit Card|2026-07-16|Gold
+TG-0009|Esteban Vargas|esteban.vargas411@example.com|4K Monitor 27in|2025-03-09|1737.55|52|Bucaramanga|Debit Card|2025-06-25|Silver
+TG-0010|Daniela Mendoza|daniela.mendoza147@example.com|4K Monitor 27in|2025-05-23|1423.12|50|Cartagena|Bank Transfer|2025-09-26|Gold
+TG-0011|Daniela Castro|daniela.castro225@example.com|Smartwatch Fit|2026-06-06|199.99|19|Medellin|Debit Card|2026-07-07|Silver
+TG-0012|Esteban Rojas|esteban.rojas611@example.com|Wireless Earbuds X2|2026-01-30|1144.30|45|Manizales|PayPal|2026-05-07|Platinum
+TG-0013|Ricardo Gomez|ricardo.gomez697@example.com|Webcam HD|2025-04-28|1684.54|64|Cartagena|PayPal|2026-04-12|Bronze
+TG-0014|Alejandro Perez|alejandro.perez465@example.com|Laptop Pro 15|2025-09-27|1454.86|48|Medellin|PayPal|2026-06-10|Gold
+TG-0015|Laura Suarez|laura.suarez204@example.com|Smartwatch Fit|2026-01-18|1038.63|65|Manizales|Credit Card|2026-02-28|Silver
+TG-0016|Juan Gomez|juan.gomez115@example.com|Gaming Mouse|2025-11-11|138.31|72|Santa Marta|Credit Card|2026-01-11|Bronze
+TG-0017|Juan Martinez|juan.martinez779@example.com|USB-C Hub|2025-05-09|1263.72|51|Cali|PayPal|2025-07-13|Silver
+TG-0018|Felipe Rojas|felipe.rojas988@example.com|Mechanical Keyboard|2025-07-25|776.11|58|Bucaramanga|Bank Transfer|2025-12-31|Gold
+TG-0019|Gabriela Lopez|gabriela.lopez254@example.com|Mechanical Keyboard|2025-03-07|69.32|51|Barranquilla|Debit Card|2025-08-27|Bronze
+TG-0020|Carolina Rodriguez|carolina.rodriguez235@example.com|Wireless Earbuds X2|2025-02-02|162.49|31|Cartagena|Bank Transfer|2026-01-06|Bronze
+TG-0021|Isabella Morales|isabella.morales591@example.com|Tablet Air 10|2025-09-06|1540.01|28|Medellin|Credit Card|2026-05-06|Silver
+TG-0022|Nicolas Rojas|nicolas.rojas421@example.com|Tablet Air 10|2025-02-25|1251.95|57|Medellin|Credit Card|2026-02-04|Silver
+TG-0023|Mariana Lopez|mariana.lopez255@example.com|Mechanical Keyboard|2025-07-14|868.90|43|Cali|PayPal|2026-04-14|Silver
+TG-0024|Ricardo Martinez|ricardo.martinez454@example.com|USB-C Hub|2025-04-11|1249.50|50|Bogota|Credit Card|2025-05-06|Platinum
+TG-0025|Ricardo Ramirez|ricardo.ramirez171@example.com|Bluetooth Speaker|2026-05-13|429.70|41|Bogota|Debit Card|2026-07-13|Bronze
+TG-0026|Daniela Torres|daniela.torres949@example.com|Tablet Air 10|2025-10-20|1332.62|62|Manizales|Bank Transfer|2026-05-24|Bronze
+TG-0027|Andres Sanchez|andres.sanchez992@example.com|Laptop Pro 15|2025-03-04|616.43|19|Santa Marta|Bank Transfer|2026-03-21|Silver
+TG-0028|Ricardo Reyes|ricardo.reyes162@example.com|Laptop Pro 15|2026-06-05|1622.00|20|Santa Marta|Credit Card|2026-06-10|Silver
+TG-0029|Diego Ortiz|diego.ortiz123@example.com|Noise Cancelling Headphones|2025-09-10|1141.74|55|Medellin|Bank Transfer|2026-07-03|Silver
+TG-0030|Paula Reyes|paula.reyes324@example.com|4K Monitor 27in|2025-07-29|1369.27|31|Cartagena|Bank Transfer|2026-07-06|Bronze
+TG-0031|Natalia Diaz|natalia.diaz469@example.com|Gaming Mouse|2025-03-16|886.98|52|Medellin|Credit Card|2025-03-20|Silver
+TG-0032|Laura Torres|laura.torres136@example.com|Gaming Mouse|2025-03-12|486.80|34|Cali|Bank Transfer|2026-06-05|Gold
+TG-0033|Carolina Diaz|carolina.diaz627@example.com|External SSD 1TB|2026-06-26|1278.89|51|Cartagena|Credit Card|2026-06-26|Platinum
+TG-0034|Isabella Torres|isabella.torres119@example.com|Wireless Earbuds X2|2025-06-09|556.87|29|Bucaramanga|Debit Card|2025-10-26|Silver
+TG-0035|Ricardo Torres|ricardo.torres518@example.com|Tablet Air 10|2025-09-15|202.59|43|Cartagena|Credit Card|2025-10-11|Bronze
+TG-0036|Manuela Garcia|manuela.garcia653@example.com|4K Monitor 27in|2025-06-15|856.22|61|Cucuta|Credit Card|2026-06-29|Bronze
+TG-0037|Andrea Garcia|andrea.garcia559@example.com|Laptop Pro 15|2026-01-14|1063.21|43|Cali|Credit Card|2026-06-12|Bronze
+TG-0038|Andrea Rodriguez|andrea.rodriguez921@example.com|Gaming Mouse|2025-08-04|1277.16|38|Manizales|Bank Transfer|2025-12-09|Platinum
+TG-0039|Julian Garcia|julian.garcia948@example.com|Mechanical Keyboard|2025-06-16|1678.24|17|Cali|PayPal|2025-09-14|Gold
+TG-0040|Alejandro Ramirez|alejandro.ramirez274@example.com|Smartwatch Fit|2025-04-21|1660.94|70|Pereira|Debit Card|2025-11-02|Bronze
